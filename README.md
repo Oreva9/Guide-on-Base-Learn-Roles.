@@ -6,3 +6,4 @@ Claim all roles applicable
 Deploy 1 contract on base network
 claim the role for that singular contract
 deploy 5 contracts
+claim role for 5 contracts
