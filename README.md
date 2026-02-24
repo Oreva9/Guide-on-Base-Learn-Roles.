@@ -7,3 +7,4 @@ Deploy 1 contract on base network
 claim the role for that singular contract
 deploy 50 contracts
 claim role for 50 contracts
+50 github Commits intead of contracts sorry
